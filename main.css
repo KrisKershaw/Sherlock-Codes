@@ -95,7 +95,8 @@ li {
 }
 
 .aboutusheight{
-    height: 80vh;
+    flex:1;
+    min-height: 80vh;
 }
 
 .cbkinfoheight{
